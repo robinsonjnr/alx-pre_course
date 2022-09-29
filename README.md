@@ -1,2 +1,1 @@
-My first readme
-:loving it so far
+My first readme updated
